@@ -123,9 +123,27 @@
             <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
             <li class="nav-item">
-              <a href="#" class="nav-link">
+              <a href="<?=SERVERURL?>views/clientes/listar-cliente" class="nav-link">
                 <i class="nav-icon fas fa-th"></i>
-                <p>Simple Link</p>
+                <p>Clientes</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="<?=SERVERURL?>views/productos/listar-producto" class="nav-link">
+                <i class="nav-icon fas fa-th"></i>
+                <p>Productos</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="<?=SERVERURL?>views/usuario/listar-usuario" class="nav-link">
+                <i class="nav-icon fas fa-th"></i>
+                <p>Usuarios</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="<?=SERVERURL?>views/ventas/listar-venta" class="nav-link">
+                <i class="nav-icon fas fa-th"></i>
+                <p>Ventas</p>
               </a>
             </li>
           </ul>
