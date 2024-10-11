@@ -14,7 +14,8 @@ _cursiva_ _cursiva_
 Este es un bloque tipo cita
 ```
 
-> Esta es una nota
+> [!NOTE]
+> Esto es una nota
 
 Visita: [Google](https://www.google.com)
 ![Programador](https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg)
