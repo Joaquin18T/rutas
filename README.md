@@ -1,4 +1,5 @@
 # Titulo (Interfaz de registro de cliente)
+## Plantilla de vistas y reutilizacion de header y footer
 
 ## Subtitulo
 
